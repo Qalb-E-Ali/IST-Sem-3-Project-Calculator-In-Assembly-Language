@@ -24,6 +24,12 @@ Following formulas have been used:
 In the output window, the calculator interface defined by us is displayed to the user showing the list of 13 mathematical functions along with a few algebraic formulas with each function having its own serial number allotted to it. The user is then asked to input the serial number mention against the desired function the user wants to perform. After confirming the desired selection, the user is then again asked to input the values of variable that will be used to compute the selected mathematical function or formula. Each function has a precisely defined logic that will be discussed in detail in the next paragraph.
 We start by defining 4 different variables namely v1, v2, v3 & v4 along with r1, r2, r3 & r4 and v1_i, v2_i, v3_i & v4_i for taking input from the user. Then by using the print command we create the main user interface that is displayed in the output window. After that, we use the scroll function in our code to scroll up the printed text in the output window along with the clear screen function. We also use the MOV command to mov the data section into AX register along with initializing the data segment. The code is then added with the LEA instruction for addressing strings, as an interrupt to print strings. After that, we use the scan_num operation to take input from user in the program. Then, we use the compare instruction along with the jump instruction for comparing different values throughout the program. Finally, we make separate labels for each function to be performed by the calculator. Surely, we use the system defined arithmetic instruction for our function like, ADD, MUL, SUB etc. The result is printed by another label named “result” and lastly, the two end labels for printing wrong number and then restarting the program again and a label for exiting the program.
 
+# Debugging / Test Run
+
+![Picture1](https://user-images.githubusercontent.com/92357124/193456349-6655158e-e962-46b5-9ab1-9c4cbaf59793.png)
+![Picture2](https://user-images.githubusercontent.com/92357124/193456365-7761b0db-4264-4834-ae22-aedf056ec17d.png)
+![Picture3](https://user-images.githubusercontent.com/92357124/193456386-bda23e1a-39ba-4ae5-a969-9d18e9664560.png)
+
 # Contributors
 - Qalb E Ali
 - Ahsan Ali
