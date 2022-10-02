@@ -25,5 +25,5 @@ In the output window, the calculator interface defined by us is displayed to the
 We start by defining 4 different variables namely v1, v2, v3 & v4 along with r1, r2, r3 & r4 and v1_i, v2_i, v3_i & v4_i for taking input from the user. Then by using the print command we create the main user interface that is displayed in the output window. After that, we use the scroll function in our code to scroll up the printed text in the output window along with the clear screen function. We also use the MOV command to mov the data section into AX register along with initializing the data segment. The code is then added with the LEA instruction for addressing strings, as an interrupt to print strings. After that, we use the scan_num operation to take input from user in the program. Then, we use the compare instruction along with the jump instruction for comparing different values throughout the program. Finally, we make separate labels for each function to be performed by the calculator. Surely, we use the system defined arithmetic instruction for our function like, ADD, MUL, SUB etc. The result is printed by another label named “result” and lastly, the two end labels for printing wrong number and then restarting the program again and a label for exiting the program.
 
 # Contributors
-Qalb E Ali
-Ahsan Ali
+- Qalb E Ali
+- Ahsan Ali
