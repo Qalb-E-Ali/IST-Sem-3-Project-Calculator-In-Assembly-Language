@@ -29,6 +29,19 @@ We start by defining 4 different variables namely v1, v2, v3 & v4 along with r1,
 ![Picture1](https://user-images.githubusercontent.com/92357124/193456349-6655158e-e962-46b5-9ab1-9c4cbaf59793.png)
 ![Picture2](https://user-images.githubusercontent.com/92357124/193456365-7761b0db-4264-4834-ae22-aedf056ec17d.png)
 ![Picture3](https://user-images.githubusercontent.com/92357124/193456386-bda23e1a-39ba-4ae5-a969-9d18e9664560.png)
+![Picture4](https://user-images.githubusercontent.com/92357124/193456475-db9da274-15fa-4fb2-b792-80a942f786ae.png)
+![Picture5](https://user-images.githubusercontent.com/92357124/193456532-88bf6646-677e-4f5b-97a9-0760587f6082.png)
+![Picture6](https://user-images.githubusercontent.com/92357124/193456537-26341844-f626-4815-9bad-d1d74627dea2.png)
+![Picture7](https://user-images.githubusercontent.com/92357124/193456547-09302529-683b-48f3-bf8e-65c6bb09ecc7.png)
+![Picture8](https://user-images.githubusercontent.com/92357124/193456552-9d5834d2-0952-4503-81aa-e9c7bdde8370.png)
+![Picture9](https://user-images.githubusercontent.com/92357124/193456560-c96eba78-8c44-49e2-bf78-9f78354845ef.png)
+![Picture10](https://user-images.githubusercontent.com/92357124/193456565-27da16ce-8d62-40f7-b1dc-b27aa4c84e03.png)
+![Picture11](https://user-images.githubusercontent.com/92357124/193456562-5e4deda7-6350-4480-b4d9-8d0f30e9bc62.png)
+![Picture12](https://user-images.githubusercontent.com/92357124/193456582-99297f26-77b2-40fe-8841-f05839d06657.png)
+![Picture13](https://user-images.githubusercontent.com/92357124/193456585-ef326b35-b5dc-47d7-b25c-5e53f2ab40b2.png)
+![Picture14](https://user-images.githubusercontent.com/92357124/193456597-8219d046-117b-4b8d-8197-91e56d056a04.png)
+![Picture15](https://user-images.githubusercontent.com/92357124/193456601-409e70d7-2c5a-4389-a409-4f60454dcc5d.png)
+![Picture16](https://user-images.githubusercontent.com/92357124/193456606-b284c4ad-985e-4f54-95b8-d4c276640b1a.png)
 
 # Contributors
 - Qalb E Ali
