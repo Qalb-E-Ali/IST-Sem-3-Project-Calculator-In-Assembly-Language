@@ -9,14 +9,15 @@ We have designed the calculator in assembly language and used the following 13 f
 4) Multiplication of two numbers                    
 5) Factorial a Number            
 6) Computing power of any number       
+
 Following formulas have been used:
-7) a+b/2                         
-8) (a + b)^2    
-9) (a + b)^3 
-10) (a - b)^3 
-11) a^1 + b^2 + c^3 + d^4        
-12) (a^3 + b^3) 
-13) (a^3 - b^3)
+1) a+b/2                         
+2) (a + b)^2    
+3) (a + b)^3 
+4) (a - b)^3 
+5) a^1 + b^2 + c^3 + d^4        
+6) (a^3 + b^3) 
+7) (a^3 - b^3)
 
 # Implementation:
 
